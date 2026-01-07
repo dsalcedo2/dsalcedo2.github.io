@@ -15,3 +15,11 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+header {
+  background-color: blue;
+}
+
+footer {
+  background-color: blue;
+}
